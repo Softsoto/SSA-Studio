@@ -14,6 +14,9 @@
 | **Stack** | Python · Criptografía |
 | **Código** | Privado. Esta página es solo una presentación. |
 
+> [!NOTE]
+> **SSA Studio tiene sucesor: [SOTO](https://github.com/Softsoto/SOTO).** Reescrito en C# / .NET 10 con formato `.soto` (AES-256-GCM + scrypt), motor de compresión propio y esteganografía endurecida. SOTO sigue abriendo lo que se ocultó con SSA Studio 1.x.
+
 ---
 
 ## Qué es
