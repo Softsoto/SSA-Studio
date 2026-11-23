@@ -2,7 +2,7 @@
 
 <p align="center">Cifrado AES, esteganografía y un formato propio .SSA para esconder y proteger archivos dentro de imágenes y audio.</p>
 
-<p align="center"><a href="https://sotomontes.com/#ssa-studio"><b>Ver en sotomontes.com</b></a> · <a href="#cómo-se-usa">Cómo se usa</a> · <a href="#cómo-funciona-por-dentro">Cómo funciona</a> · <a href="#novedades">Novedades</a></p>
+<p align="center"><a href="https://sotomontes.com/#soto"><b>Ver en sotomontes.com</b></a> · <a href="#cómo-se-usa">Cómo se usa</a> · <a href="#cómo-funciona-por-dentro">Cómo funciona</a> · <a href="#novedades">Novedades</a></p>
 
 | Ficha técnica | |
 |---|---|
